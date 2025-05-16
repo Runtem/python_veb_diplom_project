@@ -50,6 +50,11 @@ body {
 .d{
     display: flex;
     justify-content: space-around;
-    margin: 50px;
-    font-size: 30px;
+    margin: 40px;
+    font-size: 25px;
+}
+.f{
+    display: flex;
+    justify-content:center
+    
 }
